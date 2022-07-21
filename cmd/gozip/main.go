@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sanderhahn/gozip"
+	"github.com/ActiveState/gozip"
 )
 
 func main() {
