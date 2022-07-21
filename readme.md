@@ -8,7 +8,7 @@ required files.
 Originally forked from https://github.com/sanderhahn/gozip
 
 ```
-go get -v -u github.com/ActiveState/gozip/cmd/gozip
+go install -v -u github.com/ActiveState/gozip/cmd/gozip@latest
 ```
 
 The api consist of the `Zip`, `UnzipList` and `Unzip` functions:
